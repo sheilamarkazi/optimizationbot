@@ -1,4 +1,4 @@
-aiohttp==3.9.3
+zaiohttp==3.9.3
 aiosignal==1.3.1
 annotated-types==0.6.0
 anyio==4.3.0
@@ -97,8 +97,7 @@ python-dateutil==2.9.0.post0
 python-json-logger==2.0.7
 pytz==2024.1
 pyviz_comms==3.0.2
-pywin32==306
-pywinpty==2.0.13
+
 PyYAML==6.0.1
 pyzmq==25.1.2
 qtconsole==5.5.1
